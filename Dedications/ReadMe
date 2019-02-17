@@ -2,7 +2,6 @@
 What we can also do with this data is separate it depending on different attributes. For example, we can create heat maps which can show which areas have higher seismic classification values or we can also calculate which areas had more dedications than other areas. With the code, we are able to create choropleth maps on the province level. Using GIS, we are able to separate the data in commune level. The problem with separating the maps using commune level is that it does become messy since there is more separation which occurs. It is more accurate to separate different attributes depending on the commune level but it is not as visually appealing as separating it by the province level. 
 The first map begins to show you where all of the monasteries in Sicily are located. 
  
-
 	Dedications will be grouped as the following: 
 •	Group 1: Christ
 •	Group 2: All Saints
@@ -16,6 +15,7 @@ After putting all four groups on the map, now we need to separate to see if ther
 •	Green= The Holy Dedication
 •	Purple= All Saints
 •	White= Christ
+
 The purple does not show due to the fact that there is only one monastery that is dedicated to all the saints and it is surrounded by other monasteries which makes it a little hidden. 
  
 The one monastery dedicated to all the saints is located in the Palermo commune. As you can see, it is surrounded by other monasteries. 
